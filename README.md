@@ -4,7 +4,7 @@
 
 1. [typora](https://www.typora.io/)
 
-   开源免费，完美支持HTML、Latex与Markdown，极简风格，所见即所得。
+   开源免费，完美支持HTML、Latex与Markdown，极简风格，所见即所得。typroa introduction.md有基本的使用方法的介绍，请下载typora后进行查看。
 
 2. [Notepad++](https://notepad-plus-plus.org/)
 
