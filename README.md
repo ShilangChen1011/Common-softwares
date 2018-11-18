@@ -8,7 +8,7 @@
 
 2. [Notepad++](https://notepad-plus-plus.org/)
 
-   开源免费，支持多种代码的编辑器，
+   开源免费，支持多种代码的编辑器。
 
 3. Adobe Acrobat
 
@@ -18,7 +18,7 @@
 
 1. [XMind](https://www.xmind.net/)
 
-   基础版免费
+   基础版免费。
 
 2. MindManager
 
